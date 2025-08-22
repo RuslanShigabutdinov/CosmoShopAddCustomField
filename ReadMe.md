@@ -4,8 +4,7 @@
 Было выполнено на версии CosmoShop eMax V13.07.01
 
 
-
-## ## ArtikelMaske.pm
+## ArtikelMaske.pm
 ```
 /cgi-bin/cosmoshop/lib/CosmoShop/Artikel/Admin/ArtikelMaske.pm
 ```
